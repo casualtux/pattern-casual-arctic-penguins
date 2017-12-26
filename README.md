@@ -1,2 +1,2 @@
-# pattern-casual-arctic-penguins
-Casual Penguins in an arctic landscape
+# pattern-casual-artic-penguins
+Casual Penguins in an Arctic Landscape
